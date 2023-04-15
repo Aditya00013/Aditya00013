@@ -21,7 +21,7 @@
 - 🏫 I’m currently learning **Full Stack Web Devlopment** <br>
 - 🙌 I’m looking to collaborate on **Web Development** <br>
 - 🤔 I’m looking for help with **Web Development**<br>
-- 🥅 2024 Goals: **To develop new Skills** <br>
+- 🥅 2023 Goals: **To develop new Skills** <br>
 
 🕵 Take a look at my repositories and let's get in touch!<br>
 
