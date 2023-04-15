@@ -1,25 +1,98 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7%2F68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966&tbnid=d1C79WuL-DpeFM&vet=12ahUKEwiWrr_dran-AhVtwnMBHQDRCVQQMygDegUIARDvAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fakchauhan2&docid=9NQRHTNTu9dsTM&w=1920&h=590&q=web%20dev%20gif%20banner&ved=2ahUKEwiWrr_dran-AhVtwnMBHQDRCVQQMygDegUIARDvAQ)]|
-<h1 align="center">Hi 👋, I'm Aditya Monga</h1>
-<h3 align="center">A passionate frontend Web developer from India</h3>
-<img align="right" alt="Coding" widht="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya00013&label=Profile%20views&color=0e75b6&style=flat" alt="aditya00013" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya00013" alt="aditya00013" /></a> </p>
+<h1 align="center">
+नमस्ते (Namaste), I Am Aditya Monga!<br>
+</h1>
 
-- 🌱 I’m currently learning **Backend web development**
+<p align="center"></p>
 
-- 👯 I’m looking to collaborate on **Web development**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;Electrical+And+Electronics+Engineer;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
 
-- 📫 How to reach me **adityamonga03@gmail.com**
+ </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<hr/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya00013&show_icons=true&locale=en&layout=compact" alt="aditya00013" /></p>
+### I am a web developer
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya00013&show_icons=true&locale=en" alt="aditya00013" /></p>
+- 👨‍🏭 I’m currently pursuing **B-Tech at ABESEC** <br>
+- 🏫 I’m currently learning **Full Stack Web Devlopment** <br>
+- 🙌 I’m looking to collaborate on **Web Development** <br>
+- 🤔 I’m looking for help with **Web Development**<br>
+- 🥅 2024 Goals: **To develop new Skills** <br>
+
+🕵 Take a look at my repositories and let's get in touch!<br>
+
+### Connect with me
+
+<hr/>
+
+<img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
+
+[![Instagram Badge](https://img.shields.io/badge/-adityamonga_13/-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adityamonga_13/)](https://www.instagram.com/adityamonga_13/)
+[![Linkedin Badge](https://img.shields.io/badge/-aditya-monga-ab0884214-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-monga-ab0884214/)](https://www.linkedin.com/in/aditya-monga-ab0884214/)
+
+
+<!--
+```
+https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
+```
+-->
+
+<br>
+
+### Languages & Technologies
+
+
+<hr/>
+
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="C++" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
+<img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
+
+<br><br>
+
+### Tools & Softwares
+
+<hr/>
+
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="GitHub Desktop" width="40px" src="https://static.techspot.com/images2/downloads/topdownload/2021/04/2021-04-07-ts3_thumbs-8ba.png" />
+<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="GitBash" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+<img align="left" alt="Wordpress" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png" />
+
+<br><br><br>
+
+### Learning Sources
+
+<hr/>
+
+<img align="left" alt="Google" width="100px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/google-2015-google-new-google-icon.svg" />
+<img align="left" alt="W3school" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/w3school.png" />
+<img align="left" alt="gfg" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/geeksforgeeks-17.png" />
+<img align="left" alt="Udemy" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/udemy.webp" />
+<img align="left" alt="Codepen" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/social-32-512.webp" />
+<img align="left" alt="YouTube" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/youtube.webp" />
+<img align="left" alt="coursera" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/coursera_logo_icon.png" />
+
+<br><br><br><br>
+
+### Github Stats:
+
+<hr/>
+<br>
+
+<img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aditya00013&layout=compact&theme=blue-green" />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aditya00013&theme=tokyonight_duo&dates=28DDB7&fire=DD2727&sideLabels=DD7F19&ring=12B6DD&currStreakNum=DD2727&border=65EAD0B7)](https://git.io/streak-stats)
+
+![](https://activity-graph.herokuapp.com/graph?username=Aditya00013&theme=github)
+
+
+
+![1st](https://user-images.githubusercontent.com/121122397/216615077-3e6d2942-32f8-4c4f-a09e-dd3a4617e4a2.gif)
