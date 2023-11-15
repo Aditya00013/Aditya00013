@@ -32,7 +32,7 @@
 <img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
 
 [![Instagram Badge](https://img.shields.io/badge/-adityamonga_13/-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adityamonga_13/)](https://www.instagram.com/adityamonga_13/)
-[![Linkedin Badge](https://img.shields.io/badge/-aditya-monga-ab0884214-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-monga-ab0884214/)](https://www.linkedin.com/in/aditya-monga-ab0884214/)
+[![Linkedin Badge]([https://img.shields.io/badge/-aditya-monga-ab0884214-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-monga-ab0884214/](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTiK-AtWaobNPgsInlVW4DY03H6Wu4NIybNKRW5KGiRQNWeOAzpp4WtOYWQpzptWIvFw))](https://www.linkedin.com/in/aditya-monga-ab0884214/)
 
 
 <!--
