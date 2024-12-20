@@ -24,16 +24,6 @@
 
 🕵 Take a look at my repositories and let's get in touch!<br>
 
-### Connect with me
-
-<hr/>
-
-<img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
-
-[![Instagram Badge](https://img.shields.io/badge/-adityxmonga/-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adityxmonga/)](https://www.instagram.com/adityxmonga/)
-[![Linkedin Badge]((https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTiK-AtWaobNPgsInlVW4DY03H6Wu4NIybNKRW5KGiRQNWeOAzpp4WtOYWQpzptWIvFw&usqp=CAU))](https://www.linkedin.com/in/aditya-monga-1b2b45287/)
-
-
 <!--
 ```
 https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
