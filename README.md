@@ -20,8 +20,7 @@
 - 👨‍🏭 I’m currently pursuing **B-Tech at ABESEC** <br>
 - 🏫 I’m currently learning **Full Stack Web Devlopment** <br>
 - 🙌 I’m looking to collaborate on **Web Development** <br>
-- 🤔 I’m looking for help with **Web Development**<br>
-- 🥅 2023 Goals: **To develop new Skills** <br>
+- 🥅 2024 Goals: **To develop new Skills** <br>
 
 🕵 Take a look at my repositories and let's get in touch!<br>
 
@@ -31,7 +30,7 @@
 
 <img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
 
-[![Instagram Badge](https://img.shields.io/badge/-adityamonga_13/-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adityamonga_13/)](https://www.instagram.com/adityamonga_13/)
+[![Instagram Badge](https://img.shields.io/badge/-adityxmonga/-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adityxmonga/)](https://www.instagram.com/adityxmonga/)
 [![Linkedin Badge]((https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTiK-AtWaobNPgsInlVW4DY03H6Wu4NIybNKRW5KGiRQNWeOAzpp4WtOYWQpzptWIvFw&usqp=CAU))](https://www.linkedin.com/in/aditya-monga-1b2b45287/)
 
 
