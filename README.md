@@ -1,27 +1,12 @@
-<!--
-█████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗     ███╗   ███╗ ██████╗ ███╗   ██╗  ██████╗  █████╗
-██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗    ████╗ ████║██╔═══██╗████╗  ██║ ██╔════╝ ██╔══██╗
-███████║██║  ██║██║   ██║    ╚████╔╝ ███████║    ██╔████╔██║██║   ██║██╔██╗ ██║ ██║  ███╗███████║
-██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║    ██║╚██╔╝██║██║   ██║██║╚██╗██║ ██║   ██║██╔══██║
-██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║    ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║ ╚██████╔╝██║  ██║
-╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝    ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
--->
-
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║       नमस्ते — I build things for the web.               ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<h3>नमस्ते 🙏 — I build things for the web.</h3>
 
-# Aditya Monga
+<h1>Aditya Monga</h1>
 
-**Fullstack Developer · UI/UX Thinker · EEE Engineer**
+<p><strong>Fullstack Developer &nbsp;·&nbsp; UI/UX Thinker &nbsp;·&nbsp; EEE Engineer</strong></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=6EE7B7&center=true&width=600&lines=I+craft+interfaces+people+love+to+use.;React+%7C+Next.js+%7C+Node.js+%7C+Tailwind;Where+engineering+meets+design.;Currently+building+something+cool...)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=6EE7B7&center=true&vCenter=true&width=600&height=35&lines=I+craft+interfaces+people+love+to+use.;React+%7C+Next.js+%7C+Node.js+%7C+Tailwind;Where+engineering+meets+design.;Currently+building+something+cool..." alt="Typing SVG" />
 
 </div>
 
@@ -33,14 +18,14 @@
 
 ```javascript
 const aditya = {
-  name:      "Aditya Monga",
-  location:  "India 🇮🇳",
-  degree:    "B.Tech — Electrical & Electronics",
-  college:   "ABESEC",
-  role:      "Fullstack Developer",
-  passion:   ["Clean UI", "Scalable Backend", "Great UX"],
+  name:         "Aditya Monga",
+  location:     "India 🇮🇳",
+  degree:       "B.Tech — Electrical & Electronics",
+  college:      "ABESEC",
+  role:         "Fullstack Developer",
+  passion:      ["Clean UI", "Scalable Backend", "Great UX"],
   currentFocus: "Building products that look good & work better",
-  funFact:   "An EE engineer who fell in love with the web 💻"
+  funFact:      "An EE engineer who fell in love with the web 💻"
 };
 ```
 
