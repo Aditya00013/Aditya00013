@@ -8,11 +8,13 @@
 -->
 
 <div align="center">
+
 ```
-
-                                                           
-       नमस्ते — I build things for the web.                  
-
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║       नमस्ते — I build things for the web.               ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 # Aditya Monga
@@ -130,6 +132,8 @@ Thanks for stopping by. Go check out my repos ↓
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aditya00013&color=6EE7B7&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
 
 </div>
   Thanks for visiting. Explore my repos below ↓
