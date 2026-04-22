@@ -1,87 +1,136 @@
-![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
-
-
-<h1 align="center">
-नमस्ते (Namaste), I Am Aditya Monga!<br>
-</h1>
-
-<p align="center"></p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;Electrical+And+Electronics+Engineer;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
-
- </p>
-
-<hr/>
-
-<img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
-
-### I am a web developer
-
-- 👨‍🏭 I’m currently pursuing **B-Tech at ABESEC** <br>
-- 🏫 I’m currently learning **Full Stack Web Devlopment** <br>
-- 🙌 I’m looking to collaborate on **Web Development** <br>
-- 🥅 2024 Goals: **To develop new Skills** <br>
-
-🕵 Take a look at my repositories and let's get in touch!<br>
-
 <!--
-```
-https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
-```
+█████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗     ███╗   ███╗ ██████╗ ███╗   ██╗ ██████╗  █████╗
+██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗    ████╗ ████║██╔═══██╗████╗  ██║██╔════╝ ██╔══██╗
+███████║██║  ██║██║   ██║    ╚████╔╝ ███████║    ██╔████╔██║██║   ██║██╔██╗ ██║██║  ███╗███████║
+██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║    ██║╚██╔╝██║██║   ██║██║╚██╗██║██║   ██║██╔══██║
+██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║    ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║╚██████╔╝██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝    ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
 -->
 
-<br>
+<div align="center">
 
-### Languages & Technologies
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║       नमस्ते — I build things for the web.               ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
+# Aditya Monga
 
-<hr/>
+**Fullstack Developer · UI/UX Thinker · EEE Engineer**
 
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="C++" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
-<img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=6EE7B7&center=true&width=600&lines=I+craft+interfaces+people+love+to+use.;React+%7C+Next.js+%7C+Node.js+%7C+Tailwind;Where+engineering+meets+design.;Currently+building+something+cool...)](https://git.io/typing-svg)
 
-<br><br>
+</div>
 
-### Tools & Softwares
+---
 
-<hr/>
+<img align="right" width="320px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="dev gif"/>
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub Desktop" width="40px" src="https://static.techspot.com/images2/downloads/topdownload/2021/04/2021-04-07-ts3_thumbs-8ba.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GitBash" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img align="left" alt="Wordpress" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png" />
+### `> whoami`
 
-<br><br><br>
+```javascript
+const aditya = {
+  name:      "Aditya Monga",
+  location:  "India 🇮🇳",
+  degree:    "B.Tech — Electrical & Electronics",
+  college:   "ABESEC",
+  role:      "Fullstack Developer",
+  passion:   ["Clean UI", "Scalable Backend", "Great UX"],
+  currentFocus: "Building products that look good & work better",
+  funFact:   "An EE engineer who fell in love with the web 💻"
+};
+```
 
-### Learning Sources
+<br clear="right"/>
 
-<hr/>
+---
 
-<img align="left" alt="Google" width="100px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/google-2015-google-new-google-icon.svg" />
-<img align="left" alt="W3school" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/w3school.png" />
-<img align="left" alt="gfg" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/geeksforgeeks-17.png" />
-<img align="left" alt="Udemy" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/udemy.webp" />
-<img align="left" alt="Codepen" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/social-32-512.webp" />
-<img align="left" alt="YouTube" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/youtube.webp" />
-<img align="left" alt="coursera" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/coursera_logo_icon.png" />
+### `> tech.stack()`
 
-<br><br><br><br>
+<div align="center">
 
-### Github Stats:
+**Frontend**
 
-<hr/>
-<br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aditya00013&layout=compact&theme=blue-green" />
+**Backend & Database**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aditya00013&theme=tokyonight_duo&dates=28DDB7&fire=DD2727&sideLabels=DD7F19&ring=12B6DD&currStreakNum=DD2727&border=65EAD0B7)](https://git.io/streak-stats)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-![](https://activity-graph.herokuapp.com/graph?username=Aditya00013&theme=github)
+**Tools & Workflow**
 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+</div>
 
-![1st](https://user-images.githubusercontent.com/121122397/216615077-3e6d2942-32f8-4c4f-a09e-dd3a4617e4a2.gif)
+---
+
+### `> philosophy.render()`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   "Good design is invisible.                                │
+│    Great code is the same."                                 │
+│                                                             │
+│   I believe the best products sit at the intersection       │
+│   of clean engineering and intentional design.              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+### `> github.stats()`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditya00013&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya00013&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya00013&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### `> connect()`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Aditya00013-181717?style=for-the-badge&logo=github)](https://github.com/Aditya00013)
+[![Email](https://img.shields.io/badge/Email-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+Thanks for stopping by. Go check out my repos ↓
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=Aditya00013&color=6EE7B7&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
