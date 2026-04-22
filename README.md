@@ -29,7 +29,7 @@
 
 <img align="right" width="320px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="dev gif"/>
 
-### `> whoami`
+### `> who am i`
 
 ```javascript
 const aditya = {
@@ -71,7 +71,6 @@ const aditya = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
