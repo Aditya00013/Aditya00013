@@ -1,36 +1,46 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya%20Monga&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20UI%2FUX%20Thinker%20%E2%80%A2%20EEE%20Engineer&descAlignY=60&descSize=15&descColor=a78bfa" width="100%"/>
+<!--
+█████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗     ███╗   ███╗ ██████╗ ███╗   ██╗  ██████╗  █████╗
+██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗    ████╗ ████║██╔═══██╗████╗  ██║ ██╔════╝ ██╔══██╗
+███████║██║  ██║██║   ██║    ╚████╔╝ ███████║    ██╔████╔██║██║   ██║██╔██╗ ██║ ██║  ███╗███████║
+██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║    ██║╚██╔╝██║██║   ██║██║╚██╗██║ ██║   ██║██╔══██║
+██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║    ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║ ╚██████╔╝██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝    ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+-->
 
 <div align="center">
-<a href="https://github.com/Aditya00013">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=नमस्ते+%F0%9F%99%8F+I'm+Aditya+Monga;I+build+things+for+the+web.;React+%7C+Next.js+%7C+Node+%7C+MongoDB;Clean+code.+Cleaner+UI." alt="Typing SVG" />
-</a>
-</div>
 
-<br/>
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║       नमस्ते — I build things for the web.               ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+# Aditya Monga
+
+**Fullstack Developer · UI/UX Thinker · EEE Engineer**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=6EE7B7&center=true&width=600&lines=I+craft+interfaces+people+love+to+use.;React+%7C+Next.js+%7C+Node.js+%7C+Tailwind;Where+engineering+meets+design.;Currently+building+something+cool...)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## `{ about me }`
+<img align="right" width="320px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="dev gif"/>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+### `> whoami`
 
-```typescript
-const aditya: Developer = {
-  name:     "Aditya Monga",
-  from:     "India 🇮🇳",
-  degree:   "B.Tech · Electrical & Electronics",
-  college:  "ABESEC",
-
-  stack:    ["React", "Next.js", "Node.js",
-             "MongoDB", "Tailwind CSS"],
-
-  focus:    "Building products that look good
-             and work even better",
-
-  believes: "Design is not how it looks.
-             It's how it works.",
-
-  status:   "🟢 Open to collaborations"
+```javascript
+const aditya = {
+  name:      "Aditya Monga",
+  location:  "India 🇮🇳",
+  degree:    "B.Tech — Electrical & Electronics",
+  college:   "ABESEC",
+  role:      "Fullstack Developer",
+  passion:   ["Clean UI", "Scalable Backend", "Great UX"],
+  currentFocus: "Building products that look good & work better",
+  funFact:   "An EE engineer who fell in love with the web 💻"
 };
 ```
 
@@ -38,88 +48,92 @@ const aditya: Developer = {
 
 ---
 
-## `{ stack }`
+### `> tech.stack()`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,tailwind,html,css,js,typescript&theme=dark&perline=9" />
+**Frontend**
 
-<br/><br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=figma,vscode,git,github,vercel,postman&theme=dark&perline=9" />
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Tools & Workflow**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## `{ github stats }`
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Aditya00013&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6ee7b7&text_color=c9d1d9"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya00013&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Aditya00013&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=6ee7b7&fire=ff6e6e&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" width="70%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya00013&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-</div>
-
----
-
-## `{ philosophy }`
+### `> philosophy.render()`
 
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   An Electrical Engineer who discovered the web and never        │
-│   looked back. I care about the gap between engineering          │
-│   and design — where most products fail, and the best           │
-│   ones are born.                                                 │
-│                                                                  │
-│   Every pixel is a decision. Every function is a promise.       │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   "Good design is invisible.                                │
+│    Great code is the same."                                 │
+│                                                             │
+│   I believe the best products sit at the intersection       │
+│   of clean engineering and intentional design.              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## `{ connect }`
+### `> github.stats()`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40Aditya00013-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya00013)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditya00013&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya00013&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya00013&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### `> connect()`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Aditya00013-181717?style=for-the-badge&logo=github)](https://github.com/Aditya00013)
 [![Email](https://img.shields.io/badge/Email-adityamonga03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityamonga03@gmail.com)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aditya00013&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
-```
-  Thanks for visiting. Explore my repos below ↓
-```
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+---
+
+<div align="center">
 
 ```
+Thanks for stopping by. Go check out my repos ↓
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=Aditya00013&color=6EE7B7&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
   Thanks for visiting. Explore my repos below ↓
 ```
 
